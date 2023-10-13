@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="display:flex;">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=levanion&count_private=true&show_icons=true&include_all_commits=true&theme=calm" alt="Levanion => Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=levanion&layout=compact" alt="Levanion => Stats" />
+</div>
